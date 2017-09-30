@@ -10,7 +10,7 @@ public class array_list_example {
     public static void main(String args[]){
 
         int array[]= new int[5];
-        ArrayList<Integer>myList=new ArrayList<>(5); //5 is size which can be increased or decreased
+        ArrayList<Integer>myList=new ArrayList<>(5); //5  is size which can be increased or decreased
         myList.add(1);
         myList.add(2);
         myList.add(3);
